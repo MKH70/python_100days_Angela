@@ -1,1 +1,12 @@
+#!/usr/bin/python3
+print("Welcome to the Band Name Generator.")
+d = input("What's the name of the city you grew up in?\n")
+s = input("What's your pet's name?\n")
+print("Your band name could be " + d + "" + s )
+
+############
+#this is code in video learn
+	
+#print("Welcome to the Band Name Generator.")
+#print("Your band name could be" + input("What's the name of the city you grew up in?\n") + "" + input("What's your pet's name?\n") )
 
